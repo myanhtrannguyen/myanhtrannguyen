@@ -11,9 +11,9 @@ Reach out to collaborate on exciting AI projects! 🥇
 </div>         
 
 # 📊 **GitHub Stats**
-![myanhtrannguyen's Stats](https://github-readme-stats.vercel.app/api?username=myanhtrannguyen&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true)
-![myanhtrannguyen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=myanhtrannguyen&theme=ambient_gradient&hide_border=true)<br>
-![myanhtrannguyen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myanhtrannguyen&theme=ambient_gradient&show_icons=true&hide_border=true&layout=donut-vertical)
+![myanhtrannguyen's Stats](https://github-readme-stats.vercel.app/api?username=myanhtrannguyen&theme=omni&show_icons=true&hide_border=true&count_private=true)
+![myanhtrannguyen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=myanhtrannguyen&theme=omni&hide_border=true)<br>
+![myanhtrannguyen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myanhtrannguyen&theme=omni&show_icons=true&hide_border=true&layout=donut-vertical)
 #  📡 **Connect with me**  
 Let's connect and collaborate! Find me on:
 
